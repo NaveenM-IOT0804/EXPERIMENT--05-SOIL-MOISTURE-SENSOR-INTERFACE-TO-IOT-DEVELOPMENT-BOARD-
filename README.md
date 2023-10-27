@@ -97,7 +97,8 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
-```#include "main.h"
+```c
+#include "main.h"
 #include "Soil Moisture Sensor.h"
 #include "stdio.h"
 UART_HandleTypeDef huart2;
